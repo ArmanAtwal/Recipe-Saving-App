@@ -1,4 +1,7 @@
 # Recipe Saving App
+<img width="334" alt="Screenshot 2023-07-18 at 3 21 28 PM" src="https://github.com/ArmanAtwal/Recipe-Saving-App/assets/139921617/3ad6364c-ffa7-4aee-a4b1-e8a0af337f68">
+
+
 # Description
 The Recipe Saver App is a feature-rich iOS application developed using Swift and Xcode. It provides a comprehensive recipe management system, allowing users to easily categorize and access detailed information about their favorite recipes. The app utilizes advanced coding techniques such as tab bar navigation, data modeling, and grid layout to optimize performance and enhance the user experience.
 
